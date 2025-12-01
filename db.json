@@ -1,31 +1,76 @@
 {
-    "posts" : [
-        {
-            "id" : 1,
-            "name" : "person1",
-            "age" : 30,
-            "category" : "something1"
-        },
-    
-        {
-            "id" : 2,
-            "name" : "person2",
-            "age" : 40,
-            "category" : "something2"
-        },
-    
-        {
-            "id" : 3,
-            "name" : "person3",
-            "age" : 21,
-            "category" : "something3"
-        },
-    
-        {
-            "id" : 4,
-            "name" : "person4",
-            "age" : 50,
-            "category" : "something4"
-        }
-    ]
+  "articles": [
+    {
+      "id": "1",
+      "title": "Title 1",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate necessitatibus odit est nihil minima possimus?",
+      "image": "/images/article1.webp",
+      "readingTime": 5,
+      "category": "AI",
+      "author": "SomeOne"
+    },
+    {
+      "id": "2",
+      "title": "Title 2",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate necessitatibus odit est nihil minima possimus?",
+      "image": "/images/article2.webp",
+      "readingTime": 8,
+      "category": "Client",
+      "author": "SomeOne"
+    },
+    {
+      "id": "3",
+      "title": "Title 3",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate necessitatibus odit est nihil minima possimus?",
+      "image": "/images/article3.webp",
+      "readingTime": 11,
+      "category": "Phone",
+      "author": "SomeOne"
+    },
+    {
+      "id": "4",
+      "title": "Title 4",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate necessitatibus odit est nihil minima possimus?",
+      "image": "/images/article4.webp",
+      "readingTime": 15,
+      "category": "Programmer",
+      "author": "SomeOne"
+    },
+    {
+      "id": "5",
+      "title": "Title 5",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate necessitatibus odit est nihil minima possimus?",
+      "image": "/images/article5.webp",
+      "readingTime": 7,
+      "category": "Responsive",
+      "author": "SomeOne"
+    },
+    {
+      "id": "6",
+      "title": "Title 6",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate necessitatibus odit est nihil minima possimus?",
+      "image": "/images/article6.webp",
+      "readingTime": 23,
+      "category": "Development",
+      "author": "SomeOne"
+    },
+    {
+      "id": "7",
+      "title": "Title 7",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate necessitatibus odit est nihil minima possimus?",
+      "image": "/images/article7.webp",
+      "readingTime": 19,
+      "category": "React",
+      "author": "SomeOne"
+    },
+    {
+      "id": "8",
+      "title": "Title 8",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate necessitatibus odit est nihil minima possimus?",
+      "image": "/images/article8.webp",
+      "readingTime": 33,
+      "category": "JavaScript",
+      "author": "SomeOne"
+    }
+  ]
 }
