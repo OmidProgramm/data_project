@@ -1,0 +1,31 @@
+{
+    "posts" : [
+        {
+            "id" : 1,
+            "name" : "person1",
+            "age" : 30,
+            "category" : "something1"
+        },
+    
+        {
+            "id" : 2,
+            "name" : "person2",
+            "age" : 40,
+            "category" : "something2"
+        },
+    
+        {
+            "id" : 3,
+            "name" : "person3",
+            "age" : 21,
+            "category" : "something3"
+        },
+    
+        {
+            "id" : 4,
+            "name" : "person4",
+            "age" : 50,
+            "category" : "something4"
+        }
+    ]
+}
